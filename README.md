@@ -579,7 +579,7 @@ exit
 request system software add /tmp/usb/junos-srxsme-17.3R2-S4.1.tgz no-copy
 ```
 
-### Junos update from a network resourece
+### Junos update from a network resource
 ```
 file copy ftp://[username:prompt]@[ftp.hostname.net]/[filename] /var/tmp/
 request system software add /tmp/usb/junos-srxsme-17.3R2-S4.1.tgz no-copy
